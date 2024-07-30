@@ -1,0 +1,5 @@
+io\reflectoring\crud\product\ProductRepository.class
+io\reflectoring\crud\product\ProductService.class
+io\reflectoring\crud\product\ProductController.class
+io\reflectoring\crud\product\Product.class
+io\reflectoring\crud\CrudApplication.class
